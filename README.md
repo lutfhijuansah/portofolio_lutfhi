@@ -9,13 +9,7 @@ An interactive Streamlit application for predicting loan default risk, assisting
 ## 📝 Project Summary
 This project utilizes a machine learning model (Logistic Regression) trained on comprehensive customer data to analyze risk factors and predict default probability. The goal is to provide financial institutions with a tool for better credit decision-making.
 
-## ⚙️ Core Technologies
-* Python
-* Streamlit
-* Scikit-learn
-* Pandas
-
 ## 📞 Contact
 * **Email:** [juansahlutfhi@gmail.com](mailto:juansahlutfhi@gmail.com)
 * **LinkedIn:** [Lutfhi Juansah](https://www.linkedin.com/in/lutfhijuansah)
-* **This Project's GitHub Repository:** [GitHub](https://github.com/lutfhijuansah/portofolio_lutfhi/tree/master)
+* **GitHub Repository:** [GitHub](https://github.com/lutfhijuansah/portofolio_lutfhi/tree/master)
