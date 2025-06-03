@@ -6,16 +6,16 @@ import seaborn as sns # If you want to display plots from code
 
 st.set_page_config(page_title="Project Details", layout="centered")
 
-st.title("📚 Project Details: Loan Default Risk Prediction")
+st.title("Project Details: Loan Default Risk Prediction")
 st.markdown("---")
 
 # --- Project Background ---
-st.header("🎯 Background / Problem Statement")
+st.header("Background / Problem Statement")
 st.write("In the banking industry, credit risk assessment is a crucial step to minimize financial losses. This project aims to build a Machine Learning model capable of predicting the probability of a customer defaulting on their loan. This enables the bank to make more informed and proactive decisions.")
 st.markdown("---")
 
 # --- Data Exploration (EDA) & Key Visualizations ---
-st.header("📊 Data Exploration & Insights")
+st.header("Data Exploration & Insights")
 st.write("This stage involves understanding the data structure, identifying patterns, and discovering initial insights that will guide the modeling process.")
 
 st.subheader("Target Variable Distribution")
@@ -41,7 +41,7 @@ with tab2:
 st.markdown("---")
 
 # --- Modeling Methodology ---
-st.header("🛠️ Modeling Methodology")
+st.header("Modeling Methodology")
 st.write("The modeling process involves several key stages:")
 st.markdown("""
 - **Data Preprocessing:** Handling *missing values*, *outliers*, *one-hot encoding* for categorical variables (ensuring consistency with training), and *Standard Scaling* for numerical variables.
@@ -52,7 +52,7 @@ st.markdown("""
 st.markdown("---")
 
 # --- Model Results & Evaluation ---
-st.header("📈 Model Evaluation Results")
+st.header("Model Evaluation Results")
 st.write("The Logistic Regression model was evaluated using the *test set* to ensure good generalization.")
 
 st.subheader("Model Performance (Logistic Regression)")
@@ -76,7 +76,7 @@ st.markdown("""
 """)
 st.markdown("---")
 
-st.header("💡 Conclusion & Future Development")
+st.header("Conclusion & Future Development")
 st.write("This project successfully built and implemented a predictive model for loan default risk, providing a valuable tool for banks in credit decision-making. The Logistic Regression model demonstrated a good balance between interpretability and performance.")
 st.write("For future development, this project can be enhanced by:")
 st.markdown("""
