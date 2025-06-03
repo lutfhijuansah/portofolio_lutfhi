@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Tentang Saya", layout="centered")
 
-st.title("Welcome to My Portofolio!")
+st.title("👋 Welcome to My Portofolio!")
 st.write("Hello! I am a professional with 4 years of experience in the food logistic industry, now transitioning into roles as a Data Scientist and Data Analyst.")
 st.write("Leveraging my background in food logistics, I have honed my analytical, problem-solving, and meticulous data processing skills. Currently, I am focused on integrating my industry experience with data science expertise to create data-driven solutions.")
 
