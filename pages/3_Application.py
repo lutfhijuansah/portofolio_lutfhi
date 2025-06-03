@@ -6,7 +6,7 @@ import numpy as np
 
 st.set_page_config(page_title="Loan Default Prediction Application", layout="centered")
 
-st.title("💰 Loan Default Risk Prediction Application")
+st.title("Loan Default Risk Prediction Application")
 st.write("Fill out the form below to predict the likelihood of a customer defaulting on a loan.")
 st.markdown("---")
 
