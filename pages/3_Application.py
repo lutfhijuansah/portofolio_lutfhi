@@ -123,5 +123,5 @@ if st.button("Predict Default Risk"):
         """, unsafe_allow_html=True)
 
     st.markdown("---")
-    st.info(f"*(Threshold used for decision: {OPTIMAL_THRESHOLD:.4f})*")
+    ## st.info(f"*(Threshold used for decision: {OPTIMAL_THRESHOLD:.4f})*")
     st.caption("This prediction is a model-based recommendation. The final decision rests with the bank.")
